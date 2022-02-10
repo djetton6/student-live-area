@@ -33,7 +33,7 @@
     "gulp-watch": "^4.3.9",
     "html-webpack-plugin": "^2.28.0",
     "natives": "1.1.6",
-    "node-sass": "^4.5.2",
+    "node-sass": "^7.0.0",
     "react": "^15.5.4",
     "react-currency": "^2.0.0",
     "react-currency-format": "^1.0.0",
